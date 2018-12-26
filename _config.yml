@@ -19,3 +19,30 @@ theme-dark: false #Set to true to change to dark website theme
 plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
+# set highlight
+highlighter: rouge
+
+# Options › http://kramdown.gettalong.org/options.html
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+sharing :
+  provider : false
+
+# Setting for comments helper
+comments :
+  provider : disqus
+  disqus :
+    short_name : jekyllbootstrap
+  livefyre :
+    site_id : 123
+  intensedebate :
+    account : 123abc
+  facebook :
+    appid : 123
+    num_posts: 5
+    width: 580
+    colorscheme: light
+  duoshuo :
+    short_name : jekyllbootstrap

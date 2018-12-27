@@ -1,7 +1,6 @@
 ---
-layout: archive
+layout: page
 title: Projects
 permalink: /projects/
-category: "projects"
 tagline: "It's all about perception."
 ---

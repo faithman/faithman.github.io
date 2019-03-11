@@ -7,11 +7,11 @@
 
 # Site settings
 title: YE WANG
-email: yewangfaith@gmail.com
+email: "yewangfaith@gmail.com"
 description: 王也的博客 | Ye Wang's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://faithman.github.io" # the base hostname & protocol for your site
-twitter_username: Ye Wang
+twitter_username: YeWang64874698
 github_username:  faithman
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme

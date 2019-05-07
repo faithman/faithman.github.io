@@ -7,7 +7,7 @@ tagline: "A summary of my publications."
 
 # 2018
 
-   Peng, Q., ** Wang, Y.**, Hu, Y. et al. 3 Biotech (2018) 8: 353. https://doi.org/10.1007/s13205-018-1371-3.
+   Peng, Q., **Wang, Y.**, Hu, Y. et al. 3 Biotech (2018) 8: 353. https://doi.org/10.1007/s13205-018-1371-3.
 
 # 2017
 

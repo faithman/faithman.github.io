@@ -9,5 +9,5 @@ I am a graduate student in [Andersen Lab](http://andersenlab.org) and interested
 
 # Contact
 
-* Email: yewangfaith@gmail.com or ye.wang@northwestern.edu
+* Email: yewangfaith@gmail.com
 
